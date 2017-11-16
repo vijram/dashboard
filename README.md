@@ -18,17 +18,6 @@
  }
 ```
 
- To access boodksap platform api config look like below
- ```sh
- var APP_CONFIG = {
-   basePath: 'https://api.boodskap.io',
-     mqtt: {
-     hostName: 'gw.boodskap.io',
-       portNo: 8083,
-       ssl : true
-   }
- }
-```
 ##### To Enable Console Log
  set DEBUG as true else set DEBUG as false
  ```sh
